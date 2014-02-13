@@ -1,0 +1,12 @@
+{
+  "name": "frc-netconsole",
+  "version": "0.0.1",
+  "description": "Netconsole library for FIRST Robotics Competition Netconsole.",
+  "main": "frc-netconsole",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "W. Adam Brightwell",
+  "license": "MIT"
+}
